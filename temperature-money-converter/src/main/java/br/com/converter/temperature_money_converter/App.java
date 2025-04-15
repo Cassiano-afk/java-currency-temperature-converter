@@ -17,8 +17,9 @@ public class App {
 			System.out.println("Choose your currency: 1 - Dolar, 2 - Real, 3 - Euro, 4 - Libra");
 			int Selectedcurrency = scanner.nextInt();
 			System.out.println("Insert the value you want to convert(No special characters, please): ");
+			int Value = scanner.nextInt();
+			System.out.println("Insert to what currency you want to convert: 1 - Dolar, 2 - Real, 3 - Euro");
 
-			// Método para converter as moedas
 
 		} else if (optionSelected == 2) {
 			System.out.println("Choose your temperature: 1- Celsius, 2 - Fahrenheit, 3 - Kelvin");

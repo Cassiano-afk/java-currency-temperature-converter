@@ -1,5 +1,5 @@
-# java-money-temperature-converter
-A simple converter for temperature and money, for O.O. study purpouse.
+# java-currency-temperature-converter
+A simple converter for temperature and currency, for O.O. study purpouse.
 
 # Trained Skills in This Exercise:
 
